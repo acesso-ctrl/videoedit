@@ -1,4 +1,14 @@
-# Vídeo com legendas em espanhol
+# Vídeos com legendas traduzidas
+
+## Biblioteca de Anúncios (14) — italiano
+
+[**Baixar o MP4 com legendas em italiano**](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/biblioteca-anuncios-14-it.mp4)
+
+Arquivo: `biblioteca-anuncios-14-it.mp4` · duração: 67,2 segundos · resolução: 360 × 640.
+
+O texto em espanhol gravado na imagem foi coberto por legendas em italiano, incluindo o trecho final. Os cortes, a duração e o áudio do arquivo enviado foram preservados.
+
+## 1105 — espanhol
 
 [**Baixar o MP4**](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/1105-es.mp4)
 
