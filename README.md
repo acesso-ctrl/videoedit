@@ -1,5 +1,13 @@
 # Vídeos com legendas traduzidas
 
+## Biblioteca de Anúncios (32) — francês
+
+[**Baixar o MP4 com texto em francês**](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/biblioteca-anuncios-32-fr.mp4)
+
+Arquivo: `biblioteca-anuncios-32-fr.mp4` · duração: 2 min 16 s · resolução: 360 × 640.
+
+O texto em espanhol foi substituído por francês nas mesmas áreas: faixas vermelhas, texto sobre o vídeo e blocos das páginas ilustradas. Cores e disposição foram mantidas, com fontes visualmente equivalentes. Não foram acrescentadas caixas pretas. Os cortes e o áudio do arquivo enviado foram preservados.
+
 ## Biblioteca de Anúncios (14) — italiano
 
 [**Baixar o MP4 com legendas em italiano**](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/biblioteca-anuncios-14-it.mp4)
