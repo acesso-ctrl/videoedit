@@ -1,5 +1,13 @@
 # Vídeos com legendas traduzidas
 
+## Biblioteca de Anúncios (28) — espanhol da Colômbia
+
+[**Baixar o MP4 com legendas em espanhol**](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/biblioteca-anuncios-28-es-co.mp4)
+
+Arquivo: `biblioteca-anuncios-28-es-co.mp4` · duração: 2 min 17 s · resolução: 360 × 640.
+
+As legendas em português foram substituídas pelo espanhol do áudio enviado, em frases curtas e com o mesmo estilo: letras brancas, fonte visualmente equivalente, sem caixas de fundo e acompanhando as mudanças de posição do texto. A mensagem exibida no balão de WhatsApp também foi traduzida. Os cortes e o áudio original foram preservados.
+
 ## Biblioteca de Anúncios (32) — francês
 
 [**Baixar o MP4 com texto em francês**](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/biblioteca-anuncios-32-fr.mp4)
