@@ -1,5 +1,13 @@
 # Vídeos com legendas traduzidas
 
+## GeriActiva — vídeos 34, 33 e 32 em português de Portugal
+
+- [**Baixar o vídeo 34 em português**](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/biblioteca-anuncios-34-pt-pt.mp4) — 50,88 s.
+- [**Baixar o vídeo 33 em português**](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/biblioteca-anuncios-33-pt-pt.mp4) — 54,88 s.
+- [**Baixar o vídeo 32 em português**](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/biblioteca-anuncios-32-pt-pt.mp4) — 57,16 s.
+
+Legendas narrativas gravadas na imagem em português de Portugal, acompanhando os áudios enviados. Os cartões sobrepostos e as chamadas finais também foram localizados, mantendo as cores e a disposição e usando fonte visualmente equivalente. As páginas e capas filmadas continuam a fazer parte das imagens originais do produto. Resolução original: 360 × 640. Os áudios e os cortes foram preservados.
+
 ## WhatsApp fitness (11/11) — CORRIGIDO: português do início ao fim
 
 [**Baixar o MP4 corrigido em português**](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/whatsapp-fitness-2026-11-11-pt-pt.mp4)
