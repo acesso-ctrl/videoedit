@@ -1,12 +1,12 @@
 # Vídeos com legendas traduzidas
 
-## WhatsApp fitness (11/11) — faixa de legendas em espanhol
+## WhatsApp fitness (11/11) — CORRIGIDO: português do início ao fim
 
-[**Baixar o MP4 com a faixa espanhola**](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/whatsapp-fitness-2026-11-11-es.mp4)
+[**Baixar o MP4 corrigido em português**](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/whatsapp-fitness-2026-11-11-pt-pt.mp4)
 
-Arquivo: `whatsapp-fitness-2026-11-11-es.mp4` · duração: 1 min 31 s · resolução: 360 × 640.
+Arquivo: `whatsapp-fitness-2026-11-11-pt-pt.mp4` · duração: 1 min 31 s · resolução: 360 × 640.
 
-O vídeo enviado já tem legendas espanholas gravadas na imagem. A faixa selecionável em português de Portugal foi substituída por espanhol, mantendo a fonte Arial, o tamanho e os atributos originais de alinhamento e estilo. Vídeo e áudio foram copiados sem recodificação e conferidos por hash: os cortes, as imagens e o áudio em português permanecem idênticos ao original. A faixa espanhola está marcada como padrão; a exibição de legendas selecionáveis depende do reprodutor.
+As legendas espanholas gravadas na imagem foram substituídas por português de Portugal em todo o vídeo, incluindo o primeiro e o último quadro. As legendas estão gravadas no próprio vídeo, com o estilo de letras brancas e destaques amarelos do original. O áudio original em português e os cortes foram preservados. Esta versão substitui a entrega anterior que alterava apenas a faixa selecionável de legendas.
 
 ## Biblioteca de Anúncios (28) — espanhol da Colômbia
 
