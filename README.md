@@ -1,5 +1,11 @@
 # Vídeos com legendas traduzidas
 
+## Biblioteca de Anúncios 46 — espanhol
+
+[Baixar o vídeo 46 em MP4](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/biblioteca-anuncios-46-es-co.mp4)
+
+Legendas e destaques rápidos em espanhol. Áudio, cortes, resolução e duração originais preservados. Há suavização em algumas áreas onde os textos gravados foram removidos.
+
 ## GeriActiva — vídeos 34, 33 e 32 em português de Portugal
 
 - [**Baixar o vídeo 34 em português**](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/biblioteca-anuncios-34-pt-pt.mp4) — 50,88 s.
