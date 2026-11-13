@@ -1,5 +1,11 @@
 # Vídeos com legendas traduzidas
 
+## Vídeo de receitas proteicas — espanhol
+
+[Baixar o MP4 de receitas em espanhol](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/receitas-proteicas-es.mp4)
+
+A pergunta inicial, os títulos das receitas, os textos da capa e a chamada final foram localizados em espanhol, conservando as imagens, os cortes e o áudio original. Duração: 53 segundos. Resolução: 360 × 640, 25 fps. As fontes são visualmente equivalentes; pode haver suavização nas áreas reconstruídas.
+
 ## Biblioteca de Anúncios 46 — espanhol
 
 [Baixar o vídeo 46 em MP4](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/biblioteca-anuncios-46-es-co.mp4)
