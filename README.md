@@ -1,5 +1,11 @@
 # Vídeos com legendas traduzidas
 
+## Biblioteca de Anúncios 9 — português de Portugal
+
+[Baixar o vídeo 9 em português de Portugal](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/biblioteca-anuncios-9-pt-pt.mp4)
+
+O texto espanhol gravado na imagem foi substituído por português de Portugal do início ao fim, incluindo a faixa vermelha inicial, os destaques e a chamada final. Foram preservados o áudio original, os planos, a duração e a resolução de 360 × 480 a 25 fps. Estilo e cores semelhantes aos originais, com fonte visualmente equivalente. Pode haver suavização nas áreas de texto reconstruídas.
+
 ## Vídeo de receitas proteicas — espanhol
 
 [Baixar o MP4 de receitas em espanhol](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/receitas-proteicas-es.mp4)
