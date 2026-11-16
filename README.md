@@ -1,5 +1,11 @@
 # Vídeos com legendas traduzidas
 
+## VSL Luan — parte 1 em português de Portugal
+
+[Baixar a parte 1 em MP4](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/parte-1-vsl-luan-pt-pt.mp4)
+
+Legendas em português de Portugal ao longo de toda a parte 1, incluindo os títulos grandes da abertura. As letras brancas e os destaques amarelos foram mantidos, com fonte visualmente equivalente. Vídeo original de 480 × 640 a 30 fps, 4 min 00,67 s, com áudio e sequência de planos preservados. A reconstrução das áreas de texto pode deixar alguma suavização no fundo.
+
 ## Biblioteca de Anúncios 9 — português de Portugal
 
 [Baixar o vídeo 9 em português de Portugal](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/biblioteca-anuncios-9-pt-pt.mp4)
