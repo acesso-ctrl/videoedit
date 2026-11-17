@@ -1,5 +1,11 @@
 # Vídeos com legendas traduzidas
 
+## VSL Luan — parte 2 em português de Portugal
+
+[Baixar a parte 2 em MP4](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/parte-2-vsl-luan-pt-pt.mp4)
+
+Legendas em português de Portugal do primeiro ao último quadro, com o mesmo estilo de letras brancas e destaques amarelos da parte 1. Fonte visualmente equivalente, áudio e planos originais preservados. Resolução: 480 × 640 a 30 fps. Duração: 5 min 18,03 s. A reconstrução das áreas de texto pode deixar alguma suavização no fundo.
+
 ## VSL Luan — parte 1 em português de Portugal
 
 [Baixar a parte 1 em MP4](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/parte-1-vsl-luan-pt-pt.mp4)
