@@ -1,5 +1,11 @@
 # Vídeos com legendas traduzidas
 
+## VSL Luan — parte 3 em português de Portugal
+
+[Baixar a parte 3 em MP4](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/parte-3-vsl-luan-pt-pt.mp4)
+
+Legendas e cartões do programa em português de Portugal, com letras brancas, destaques amarelos e disposição visual equivalente. Oferta apresentada como 14,90 €. A palavra «dólares» foi substituída por «euros» com uma inserção curta de voz sintética ajustada ao trecho; o restante áudio foi preservado antes da codificação final. Planos, duração e resolução originais: 480 × 640, 30 fps, 7 min 39,03 s.
+
 ## VSL Luan — parte 2 em português de Portugal
 
 [Baixar a parte 2 em MP4](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/parte-2-vsl-luan-pt-pt.mp4)
