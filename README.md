@@ -1,5 +1,11 @@
 # Vídeos com legendas traduzidas
 
+## IMG_6432 — radiestesia em espanhol
+
+[Baixar o MP4 em espanhol](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/img-6432-es.mp4)
+
+Legendas, faixas superiores, botão e títulos legíveis dos materiais em movimento traduzidos para espanhol. Vídeo de 360 × 640 a 25 fps, com duração de 39,34 segundos e áudio original preservado sem recodificação. Os textos minúsculos dentro das páginas e gráficos não têm resolução suficiente para uma tradução fiel e permanecem nas imagens; os PDFs ou imagens originais são necessários para esses detalhes.
+
 ## VSL Luan — parte 3 em português de Portugal
 
 [Baixar a parte 3 em MP4](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/parte-3-vsl-luan-pt-pt.mp4)
