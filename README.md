@@ -1,5 +1,11 @@
 # Vídeos com legendas traduzidas
 
+## El Regreso Que Esperabas — espanhol
+
+[Baixar o MP4 em espanhol](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/el-regreso-que-esperabas-es.mp4)
+
+Abertura, título do ritual e legendas do depoimento traduzidos para espanhol, preservando os estilos e destaques roxos. Vídeo, cortes e áudio original mantidos; o áudio foi copiado sem recodificação. Resolução: 360 × 640, 25 fps. Duração: 2 min 31 s.
+
 ## Amor Que No Se Suelta — espanhol
 
 [Baixar o MP4 em espanhol](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/amor-que-no-se-suelta-es.mp4)
