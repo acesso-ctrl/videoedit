@@ -1,5 +1,11 @@
 # Vídeos com legendas traduzidas
 
+## IMG_6433 — animação de radiestesia em espanhol
+
+[Baixar o MP4 em espanhol](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/img-6433-es.mp4)
+
+Legendas, cartões, etiquetas móveis e botão final traduzidos para espanhol. Foram mantidos a animação, os cortes, os 1450 fotogramas e o áudio original sem recodificação. Resolução: 360 × 640, 25 fps. Duração: 58 segundos.
+
 ## IMG_6432 — radiestesia em espanhol
 
 [Baixar o MP4 em espanhol](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/img-6432-es.mp4)
