@@ -1,5 +1,11 @@
 # Vídeos com legendas traduzidas
 
+## Amor Que No Se Suelta — espanhol
+
+[Baixar o MP4 em espanhol](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/amor-que-no-se-suelta-es.mp4)
+
+Legendas e chamada final traduzidas para espanhol, com letras em itálico e destaques amarelos. Vídeo, cortes e áudio original preservados; o áudio foi copiado sem recodificação. Resolução: 360 × 640, 25 fps. Duração: 57 segundos.
+
 ## IMG_6433 — animação de radiestesia em espanhol
 
 [Baixar o MP4 em espanhol](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/img-6433-es.mp4)
