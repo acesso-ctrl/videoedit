@@ -1,5 +1,11 @@
 # Vídeos com legendas traduzidas
 
+## Parte 1 da final — espanhol, US$14,90
+
+[Baixar o MP4 corrigido](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/final-parte-1-es-14-90-usd.mp4)
+
+Legendas, prints e textos animados em espanhol. Valor na tela corrigido para US$14,90; demais ancoragens em dólares. Planos, cortes e áudio original preservados, com áudio copiado sem recodificação. Resolução: 480 × 854, 30 fps. Duração: 4 min 43 s.
+
 ## El Regreso Que Esperabas — espanhol
 
 [Baixar o MP4 em espanhol](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/el-regreso-que-esperabas-es.mp4)
