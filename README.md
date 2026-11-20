@@ -1,5 +1,11 @@
 # Vídeos com legendas traduzidas
 
+## Finaleira VSL — espanhol, pagamento único de US$14,90
+
+[Baixar o MP4 em espanhol](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/finaleira-vsl-es-14-90-usd.mp4)
+
+Legendas, títulos dos bônus, selo de garantia, botões, contador de vagas e avisos de compra traduzidos para espanhol. Oferta atualizada para pagamento único de US$14,90; ancoragens em dólares. Planos, cortes e áudio original preservados. Resolução: 480 × 854, 30 fps. Duração: 5 min 43 s.
+
 ## Parte 1 da final — espanhol, US$14,90
 
 [Baixar o MP4 corrigido](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/final-parte-1-es-14-90-usd.mp4)
