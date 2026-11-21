@@ -1,5 +1,11 @@
 # Vídeos com legendas traduzidas
 
+## Biblioteca 47 — neuroanatomia em português do Brasil
+
+[Baixar o MP4 em PT-BR](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/biblioteca47-neuro-ptbr.mp4)
+
+Legendas e chamada final em português brasileiro. Materiais substituídos pelos três mapas originais fornecidos, com movimento e rolagem. Planos dos estudantes e áudio original preservados; áudio copiado sem recodificação. Resolução: 360 × 640, 25 fps. Duração: 55 segundos.
+
 ## Finaleira VSL — espanhol, pagamento único de US$14,90
 
 [Baixar o MP4 em espanhol](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/finaleira-vsl-es-14-90-usd.mp4)
