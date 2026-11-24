@@ -1,5 +1,11 @@
 # Vídeos com legendas traduzidas
 
+## Biblioteca 47 — NeuroTrilhas em espanhol
+
+[Baixar o MP4 editado](https://raw.githubusercontent.com/acesso-ctrl/videoedit/main/biblioteca47-neuro-espanhol.mp4)
+
+Legendas, capas, instruções legíveis e chamada final em espanhol, com vídeo, cortes e áudio original preservados. Alguns textos miúdos das folhas ao fundo permanecem em português e dependem dos materiais originais para tradução fiel. Marca NeuroTrilhas e preço R$19,90 mantidos. Resolução: 360 × 640, 25 fps. Duração: 57 segundos.
+
 ## Biblioteca 47 — neuroanatomia em português do Brasil
 
 [Baixar o MP4 em PT-BR](https://github.com/acesso-ctrl/videoedit/raw/refs/heads/main/biblioteca47-neuro-ptbr.mp4)
