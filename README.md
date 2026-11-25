@@ -1,5 +1,11 @@
 # Vídeos com legendas traduzidas
 
+## Biblioteca 48 — NeuroTrilhas em espanhol
+
+[Baixar o MP4 editado](https://raw.githubusercontent.com/acesso-ctrl/videoedit/main/biblioteca48-neuro-espanhol.mp4)
+
+Legendas, capas, fichas principais, nomes das bancas e chamada final em espanhol. Vídeo, cortes e áudio original preservados, com áudio copiado sem recodificação. Alguns textos miúdos, desfocados ou parcialmente cobertos continuam em português e precisam dos materiais originais para tradução fiel. Marca NeuroTrilhas e preço R$19,90 mantidos. Resolução: 360 × 640, 25 fps. Duração: 56 segundos.
+
 ## Biblioteca 47 — NeuroTrilhas em espanhol
 
 [Baixar o MP4 editado](https://raw.githubusercontent.com/acesso-ctrl/videoedit/main/biblioteca47-neuro-espanhol.mp4)
