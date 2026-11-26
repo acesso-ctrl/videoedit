@@ -1,5 +1,11 @@
 # Vídeos com legendas traduzidas
 
+## Saladas saborosas — espanhol
+
+[Baixar o MP4 editado](https://raw.githubusercontent.com/acesso-ctrl/videoedit/main/saladas-saborosas-espanhol.mp4)
+
+Legendas traduzidas para espanhol, com uma palavra por vez, letras brancas e contorno preto. Chamada final em espanhol. Planos, cortes e áudio original preservados; áudio copiado sem recodificação. Materiais impressos das receitas mantidos. Resolução: 360 × 640, 25 fps. Duração: 2 min.
+
 ## Biblioteca 49 — NeuroTrilhas em espanhol
 
 [Baixar o MP4 editado](https://raw.githubusercontent.com/acesso-ctrl/videoedit/main/biblioteca49-neuro-espanhol.mp4)
