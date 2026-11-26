@@ -1,5 +1,11 @@
 # Vídeos com legendas traduzidas
 
+## Saladas — vídeo f4e1 em espanhol
+
+[Baixar o MP4 editado](https://raw.githubusercontent.com/acesso-ctrl/videoedit/main/saladas-f4e1-espanhol.mp4)
+
+Legendas em espanhol, com letras brancas e contorno preto. Chamada final traduzida para “HAZ CLIC AQUÍ ABAJO”, mantendo a faixa branca e a seta animada. Planos, cortes e áudio original preservados; áudio copiado sem recodificação. Materiais impressos mantidos. Resolução: 360 × 640, 25 fps. Duração: 2 min 4 s.
+
 ## Saladas e aderezos — espanhol
 
 [Baixar o MP4 editado](https://raw.githubusercontent.com/acesso-ctrl/videoedit/main/saladas-aderezos-espanhol.mp4)
